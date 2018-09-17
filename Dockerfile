@@ -1,3 +1,3 @@
-M dockersamples/staticsite
+FROM dockersamples/staticsite
 ENV AUTHOR="Shoi Hasegawa"
 
